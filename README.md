@@ -1,8 +1,9 @@
 # Social Media Integration
 ## Description
-* User can login using Google api & Facebook api.
-* Also User can login using Otp Authication System
-* Tech Stack :- Android Studio, Java, Firebase, Google Api, Facebook Api, Firebase Authication.
+* User can login using Google API & Facebook API.
+* Also User can login using OTP Authentication System using Firebase.
+* Tech Stack :- Android Studio, Java, Firebase, Google API, Facebook API, Firebase Authentication.
+
 
 ## Screenshots
 ### SplashScreen
