@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "169140552445",
+    "project_id": "loginverification-aab0d",
+    "storage_bucket": "loginverification-aab0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169140552445:android:7ae03718fe3186b632b494",
+        "android_client_info": {
+          "package_name": "com.yug.loginverification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169140552445-vj3m6crl7ut21f3hl4o2atu00pf8dsn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_gbpQUmDxw2g4xPTaXm301A4iCnnUVHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169140552445-vj3m6crl7ut21f3hl4o2atu00pf8dsn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

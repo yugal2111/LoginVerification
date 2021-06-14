@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">LoginVerification</string>
+    <string name="social">SOCIAL MEDIA</string>
+    <string name="integration">INTEGRATION</string>
+    <string name="author_name" translatable="false">Designed by Yugal Mali</string>
+    <string name="login_page_head">Login</string>
+    <string name="india_code">+91</string>
+    <string name="hint_number">8208003735</string>
+    <string name="button_text">get otp</string>
+    <string name="login_with">OR Login with</string>
+    <string name="facebook_png">Facebook</string>
+    <string name="google_png">Google</string>
+    <string name="twitter_png">Twitter</string>
+    <string name="account">Don\'t have any account?</string>
+    <string name="signup">Sign up</string>
+    <string name="mobile_back">Mobile verification number</string>
+    <string name="back"><![CDATA[<]]></string>
+    <string name="Otp_text">Enter the OTP sent to</string>
+    <string name="resend_click"><u>Resend code</u></string>
+    <string name="verify">Verify</string>
+    <string name="facebook_app_id">521658415504589</string>
+    <string name="fb_login_protocol_scheme">fb521658415504589</string>
+    <string name="logout">Log out</string>
+    <string name="signout">Sign out</string>
+    <string name="track_countries">Track Countries</string>
+    <string name="welcome_to_social_media_integration_app">Welcome to this app</string>
+
+
+</resources>
