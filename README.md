@@ -37,5 +37,6 @@
 <iframe width="300" height="535"
 src="Screenshot/sample.mp4">
 </iframe>
+[![](https://img.youtube.com/vi/VIDEO-ID/0.jpg)](Screenshot/sample.mp4)
 
 
