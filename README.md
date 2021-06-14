@@ -14,11 +14,11 @@
 <hr />
 
 ### Facebook 
-<img src="Screenshot/facebook.jpg" width="270" height="535"> <img src="Screenshot/facebook logout.jpg" width="300" height="535">
+<img src="Screenshot/facebook.jpg" width="270" height="535"> <img src="Screenshot/facebook logout.jpg" width="270" height="535">
 <hr />
 
 ### Google
-<img src="Screenshot/google.jpg" width="270" height="535"> <img src="Screenshot/google logout.jpg" width="300" height="535">
+<img src="Screenshot/google.jpg" width="270" height="535"> <img src="Screenshot/google logout.jpg" width="270" height="535">
 <hr />
 
 ### User Authication using Otp
